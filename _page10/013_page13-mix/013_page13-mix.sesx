@@ -84,7 +84,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="e4427629-073b-4551-8c78-f0e23f59b974" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="6b16c1b8-cc12-4cc6-80c7-63e0641b92fd" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -105,7 +105,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="3239cc97-53d2-4045-9544-7d05a36d7cd0" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="3313ce72-7ab2-4532-9220-b7ed10b103cc" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -548,9 +548,9 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 13.0 (Macintosh)</xmp:CreatorTool>
          <xmp:CreateDate>2020-04-18T13:55:13-04:00</xmp:CreateDate>
-         <xmp:MetadataDate>2020-04-18T14:04:30-04:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2020-04-18T14:04:30-04:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:b9f825cf-6153-43dc-be66-381935b45a4f</xmpMM:InstanceID>
+         <xmp:MetadataDate>2020-04-18T16:37:58-04:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-04-18T16:37:58-04:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:3d663766-b32a-4f5c-a80d-fb40a402b391</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:568be5e7-1194-475c-b490-69ccf80200e4</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:568be5e7-1194-475c-b490-69ccf80200e4</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -573,6 +573,20 @@
                   <stEvt:action>saved</stEvt:action>
                   <stEvt:instanceID>xmp.iid:b9f825cf-6153-43dc-be66-381935b45a4f</stEvt:instanceID>
                   <stEvt:when>2020-04-18T14:04:30-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:7cdaddeb-6b2b-4c85-aabf-9f5cde90e68c</stEvt:instanceID>
+                  <stEvt:when>2020-04-18T16:37:58-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3d663766-b32a-4f5c-a80d-fb40a402b391</stEvt:instanceID>
+                  <stEvt:when>2020-04-18T16:37:58-04:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
@@ -700,9 +714,9 @@
   </session>
 
   <files>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/013_page13.mp4" id="0" mediaHandler="ImporterHost" relativePath="../../../013_page13.mp4"/>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page13/013_page13.ogg" id="1" mediaHandler="AmioLSF" relativePath="../../_page13/013_page13.ogg"/>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/013_page13-1.mp4" id="2" mediaHandler="ImporterHost" relativePath="../../../013_page13-1.mp4"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/013_page13-mix/Imported Files/013_page13.mp4" id="0" mediaHandler="ImporterHost" relativePath="Imported Files/013_page13.mp4"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/013_page13-mix/Imported Files/013_page13-KID.mp3" id="1" importerPrivateSettings="BitsPerSecond:0:192000;CompressionQuality:0:4;CompressionType:0:0;" mediaHandler="AmioMP3" relativePath="Imported Files/013_page13-KID.mp3"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/013_page13-mix/Imported Files/013_page13-1-kid.mp3" id="2" importerPrivateSettings="BitsPerSecond:0:192000;CompressionQuality:0:4;CompressionType:0:0;" mediaHandler="AmioMP3" relativePath="Imported Files/013_page13-1-kid.mp3"/>
   </files>
 
   <audioDevice inputID="AppleHDAEngineInput:1F,3,0,1,0:1" outputID="AppleHDAEngineOutput:1F,3,0,1,1:0">
