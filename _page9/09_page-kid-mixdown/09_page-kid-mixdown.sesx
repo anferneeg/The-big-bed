@@ -76,7 +76,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="6ce92600-175f-49fd-b106-40226db135c1" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="119923b8-d8ae-4098-8263-3f72fce868ee" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -92,12 +92,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="667721" fileID="1" hue="-1" id="1" lockedInTime="false" looped="false" name="09_page9-bubble1-kid" offline="false" select="false" sourceInPoint="0" sourceOutPoint="91721" startPoint="576000" zOrder="3">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="667721" fileID="2" hue="-1" id="1" lockedInTime="false" looped="false" name="09_page9-bubble1-kid" offline="false" select="false" sourceInPoint="0" sourceOutPoint="91721" startPoint="576000" zOrder="3">
           <component componentGuid="d7877b66-d830-4ffe-938b-3c381e6b971b" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="ff533ed8-666e-4802-9913-350e39732e73" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="250da18e-74f0-4b37-97ee-0c8cffd6808a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -113,12 +113,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="804162" fileID="2" hue="-1" id="2" lockedInTime="false" looped="false" name="09_page9-bubble2-kid" offline="false" select="false" sourceInPoint="0" sourceOutPoint="124094" startPoint="680068" zOrder="5">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="804162" fileID="3" hue="-1" id="2" lockedInTime="false" looped="false" name="09_page9-bubble2-kid" offline="false" select="false" sourceInPoint="0" sourceOutPoint="124094" startPoint="680068" zOrder="5">
           <component componentGuid="61e79ae2-21fd-4c45-85b0-92689e850013" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="d225d6c0-1403-4e76-93c7-af59736759d2" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="518ceba0-5e11-4f38-9646-5182fe333c9c" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -134,12 +134,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="928281" fileID="3" hue="-1" id="3" lockedInTime="false" looped="false" name="09_page9-bubble3-kid" offline="false" select="true" sourceInPoint="0" sourceOutPoint="112712" startPoint="815569" zOrder="6">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="928281" fileID="1" hue="-1" id="3" lockedInTime="false" looped="false" name="09_page9-bubble3-kid" offline="false" select="true" sourceInPoint="0" sourceOutPoint="112712" startPoint="815569" zOrder="6">
           <component componentGuid="9c1e484a-335d-48e6-80dc-07343920e0c8" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="0386eb1a-8ffa-406f-8a60-46530d3d8b1b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="2f7f60b4-e6da-4392-887e-6bf438849a10" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -583,9 +583,9 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 13.0 (Macintosh)</xmp:CreatorTool>
          <xmp:CreateDate>2020-04-19T20:25:24-04:00</xmp:CreateDate>
-         <xmp:MetadataDate>2020-04-19T20:27:23-04:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2020-04-19T20:27:23-04:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:2dd43f47-7190-4c79-805c-5c32f05c3559</xmpMM:InstanceID>
+         <xmp:MetadataDate>2020-04-21T09:56:23-04:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-04-21T09:56:23-04:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:c9fe5bb0-5043-4b3d-904d-867f26b104d7</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:2dd43f47-7190-4c79-805c-5c32f05c3559</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:fb2b7824-a7e1-4192-a1dd-4307f5866305</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -608,6 +608,20 @@
                   <stEvt:action>saved</stEvt:action>
                   <stEvt:instanceID>xmp.iid:2dd43f47-7190-4c79-805c-5c32f05c3559</stEvt:instanceID>
                   <stEvt:when>2020-04-19T20:27:23-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:2b861574-5e49-4ab1-b453-2c99b9bc25ea</stEvt:instanceID>
+                  <stEvt:when>2020-04-21T09:56:23-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:c9fe5bb0-5043-4b3d-904d-867f26b104d7</stEvt:instanceID>
+                  <stEvt:when>2020-04-21T09:56:23-04:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
@@ -740,10 +754,10 @@
   </session>
 
   <files>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page9/09_page-kid-mixdown/Imported Files/09_page9-2-kid.mp3" id="0" importerPrivateSettings="BitsPerSecond:0:192000;CompressionQuality:0:4;CompressionType:0:0;" mediaHandler="AmioMP3" relativePath="Imported Files/09_page9-2-kid.mp3"/>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page9/09_page-kid-mixdown/Imported Files/09_page9-bubble1-kid.ogg" id="1" importerPrivateSettings="ByteOrdering:0:0;Channels:0:2;EncodingType:0:96;FormatType:0:2097152;SampleRate:0:48000;StartOffset:0:0;VBRQuality:0:100;" mediaHandler="AmioLSF" relativePath="Imported Files/09_page9-bubble1-kid.ogg"/>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page9/09_page-kid-mixdown/Imported Files/09_page9-bubble2-kid.ogg" id="2" importerPrivateSettings="ByteOrdering:0:0;Channels:0:2;EncodingType:0:96;FormatType:0:2097152;SampleRate:0:48000;StartOffset:0:0;VBRQuality:0:100;" mediaHandler="AmioLSF" relativePath="Imported Files/09_page9-bubble2-kid.ogg"/>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page9/09_page-kid-mixdown/Imported Files/09_page9-bubble3-kid.ogg" id="3" importerPrivateSettings="ByteOrdering:0:0;Channels:0:2;EncodingType:0:96;FormatType:0:2097152;SampleRate:0:48000;StartOffset:0:0;VBRQuality:0:100;" mediaHandler="AmioLSF" relativePath="Imported Files/09_page9-bubble3-kid.ogg"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page9/09_page-kid-mixdown/Imported Files/09_page9-2-kid.mp3" id="0" importerPrivateSettings="BitsPerSecond:0:192000;CompressionQuality:0:4;CompressionType:0:0;" mediaHandler="AmioMP3" relativePath="../../_page9/09_page-kid-mixdown/Imported Files/09_page9-2-kid.mp3"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page9/09_page-kid-mixdown/Imported Files/09_page9-bubble3-kid.ogg" id="1" importerPrivateSettings="ByteOrdering:0:0;Channels:0:2;EncodingType:0:96;FormatType:0:2097152;SampleRate:0:48000;StartOffset:0:0;VBRQuality:0:100;" mediaHandler="AmioLSF" relativePath="../../_page9/09_page-kid-mixdown/Imported Files/09_page9-bubble3-kid.ogg"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page9/09_page-kid-mixdown/Imported Files/09_page9-bubble1-kid.ogg" id="2" importerPrivateSettings="ByteOrdering:0:0;Channels:0:2;EncodingType:0:96;FormatType:0:2097152;SampleRate:0:48000;StartOffset:0:0;VBRQuality:0:100;" mediaHandler="AmioLSF" relativePath="../../_page9/09_page-kid-mixdown/Imported Files/09_page9-bubble1-kid.ogg"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page9/09_page-kid-mixdown/Imported Files/09_page9-bubble2-kid.ogg" id="3" importerPrivateSettings="ByteOrdering:0:0;Channels:0:2;EncodingType:0:96;FormatType:0:2097152;SampleRate:0:48000;StartOffset:0:0;VBRQuality:0:100;" mediaHandler="AmioLSF" relativePath="../../_page9/09_page-kid-mixdown/Imported Files/09_page9-bubble2-kid.ogg"/>
   </files>
 
   <audioDevice inputID="AppleHDAEngineInput:1F,3,0,1,0:1" outputID="AppleHDAEngineOutput:1F,3,0,1,1:0">

@@ -8,7 +8,7 @@
         <trackParameters trackHeight="70" trackHue="-1" trackMinimized="false">
           <name>Video Reference</name>
         </trackParameters>
-        <videoClip endPoint="1237251" fileID="0" hue="-1" id="0" lockedInTime="false" name="013_page13" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1237251" startPoint="0" zOrder="0">
+        <videoClip endPoint="1237251" fileID="1" hue="-1" id="0" lockedInTime="false" name="013_page13" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1237251" startPoint="0" zOrder="0">
           <videoFormat fieldType="0" height="1080" parDenominator="1" parNumerator="1" pixelType="0" sampleSize="4179" timeScale="125000" width="1920"/>
         </videoClip>
       </videoTrack>
@@ -79,12 +79,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1139801" fileID="1" hue="-1" id="0" lockedInTime="false" looped="false" name="013_page13" offline="false" select="true" sourceInPoint="0" sourceOutPoint="1139801" startPoint="0" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1139801" fileID="2" hue="-1" id="0" lockedInTime="false" looped="false" name="013_page13" offline="false" select="true" sourceInPoint="0" sourceOutPoint="1139801" startPoint="0" zOrder="0">
           <component componentGuid="58ef1de3-de5a-4b93-ac24-b4dfb93a854f" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="6b16c1b8-cc12-4cc6-80c7-63e0641b92fd" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="b3277bef-119a-49ec-a184-7eb66cc7dd8a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -100,12 +100,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1305370" fileID="2" hue="-1" id="1" lockedInTime="false" looped="false" name="013_page13-1" offline="false" select="true" sourceInPoint="0" sourceOutPoint="165569" startPoint="1139801" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1305370" fileID="0" hue="-1" id="1" lockedInTime="false" looped="false" name="013_page13-1" offline="false" select="true" sourceInPoint="0" sourceOutPoint="165569" startPoint="1139801" zOrder="0">
           <component componentGuid="57299aa4-c2cd-478a-9cd3-ac70cb8f843a" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="3313ce72-7ab2-4532-9220-b7ed10b103cc" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="e22ea497-2ddd-4bce-85af-8835ff855715" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -548,9 +548,9 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 13.0 (Macintosh)</xmp:CreatorTool>
          <xmp:CreateDate>2020-04-18T13:55:13-04:00</xmp:CreateDate>
-         <xmp:MetadataDate>2020-04-18T16:37:58-04:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2020-04-18T16:37:58-04:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:3d663766-b32a-4f5c-a80d-fb40a402b391</xmpMM:InstanceID>
+         <xmp:MetadataDate>2020-04-21T09:56:23-04:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-04-21T09:56:23-04:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:2406c004-f4c3-4804-9b58-f62f3ef0ab33</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:568be5e7-1194-475c-b490-69ccf80200e4</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:568be5e7-1194-475c-b490-69ccf80200e4</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -587,6 +587,20 @@
                   <stEvt:action>saved</stEvt:action>
                   <stEvt:instanceID>xmp.iid:3d663766-b32a-4f5c-a80d-fb40a402b391</stEvt:instanceID>
                   <stEvt:when>2020-04-18T16:37:58-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:fcfb7968-d652-4c5f-a77b-0147b18f9c98</stEvt:instanceID>
+                  <stEvt:when>2020-04-21T09:56:23-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:2406c004-f4c3-4804-9b58-f62f3ef0ab33</stEvt:instanceID>
+                  <stEvt:when>2020-04-21T09:56:23-04:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
@@ -714,9 +728,9 @@
   </session>
 
   <files>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/013_page13-mix/Imported Files/013_page13.mp4" id="0" mediaHandler="ImporterHost" relativePath="Imported Files/013_page13.mp4"/>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/013_page13-mix/Imported Files/013_page13-KID.mp3" id="1" importerPrivateSettings="BitsPerSecond:0:192000;CompressionQuality:0:4;CompressionType:0:0;" mediaHandler="AmioMP3" relativePath="Imported Files/013_page13-KID.mp3"/>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/013_page13-mix/Imported Files/013_page13-1-kid.mp3" id="2" importerPrivateSettings="BitsPerSecond:0:192000;CompressionQuality:0:4;CompressionType:0:0;" mediaHandler="AmioMP3" relativePath="Imported Files/013_page13-1-kid.mp3"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/013_page13-mix/Imported Files/013_page13-1-kid.mp3" id="0" importerPrivateSettings="BitsPerSecond:0:192000;CompressionQuality:0:4;CompressionType:0:0;" mediaHandler="AmioMP3" relativePath="Imported Files/013_page13-1-kid.mp3"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/013_page13-mix/Imported Files/013_page13.mp4" id="1" mediaHandler="ImporterHost" relativePath="Imported Files/013_page13.mp4"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/013_page13-mix/Imported Files/013_page13-KID.mp3" id="2" importerPrivateSettings="BitsPerSecond:0:192000;CompressionQuality:0:4;CompressionType:0:0;" mediaHandler="AmioMP3" relativePath="Imported Files/013_page13-KID.mp3"/>
   </files>
 
   <audioDevice inputID="AppleHDAEngineInput:1F,3,0,1,0:1" outputID="AppleHDAEngineOutput:1F,3,0,1,1:0">

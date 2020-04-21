@@ -12,9 +12,9 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 13.0 (Macintosh)</xmp:CreatorTool>
          <xmp:CreateDate>2020-04-18T14:02:19-04:00</xmp:CreateDate>
-         <xmp:MetadataDate>2020-04-20T19:15:16-04:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2020-04-20T19:15:16-04:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:289561a1-6616-45b1-b969-5522a091990d</xmpMM:InstanceID>
+         <xmp:MetadataDate>2020-04-21T09:56:30-04:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-04-21T09:56:30-04:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:6de3e008-90da-46d0-a027-3cfe97f88bdb</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:289561a1-6616-45b1-b969-5522a091990d</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:62398b26-9531-4c53-a67c-15e524c98504</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -103,6 +103,27 @@
                   <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:8dcb53c9-1a89-49a0-b810-3d9518906f96</stEvt:instanceID>
+                  <stEvt:when>2020-04-20T19:17:02-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6616e732-7248-41ee-9ea0-2877fb7f0d86</stEvt:instanceID>
+                  <stEvt:when>2020-04-21T09:56:30-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6de3e008-90da-46d0-a027-3cfe97f88bdb</stEvt:instanceID>
+                  <stEvt:when>2020-04-21T09:56:30-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
@@ -129,6 +150,101 @@
                   <xmpDM:trackName>CuePoint Markers</xmpDM:trackName>
                   <xmpDM:trackType>Cue</xmpDM:trackType>
                   <xmpDM:frameRate>f48000</xmpDM:frameRate>
+                  <xmpDM:markers>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>0</xmpDM:startTime>
+                           <xmpDM:name>Marker 02</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:f95932cb-fee2-4729-984f-51e8185377d9</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:f95932cb-fee2-4729-984f-51e8185377d9</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>47348</xmpDM:startTime>
+                           <xmpDM:name>Marker 01</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:0e7b8745-7dee-4082-8d4d-afd9d2033d55</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:0e7b8745-7dee-4082-8d4d-afd9d2033d55</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>140974</xmpDM:startTime>
+                           <xmpDM:name>Marker 03</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:f8348e3c-d5f1-4c42-999d-72f88ef2a817</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:f8348e3c-d5f1-4c42-999d-72f88ef2a817</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>187013</xmpDM:startTime>
+                           <xmpDM:name>Marker 04</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:0b305b87-a6cd-4f55-826f-ef7ddf2cc854</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:0b305b87-a6cd-4f55-826f-ef7ddf2cc854</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>227321</xmpDM:startTime>
+                           <xmpDM:name>Marker 05</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:9a7da8fd-a459-4589-b9c7-e41a22f53795</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:9a7da8fd-a459-4589-b9c7-e41a22f53795</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>299570</xmpDM:startTime>
+                           <xmpDM:name>Marker 06</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:611ed6f5-8412-42bf-b0e2-c5371a9c1e75</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:611ed6f5-8412-42bf-b0e2-c5371a9c1e75</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>534820</xmpDM:startTime>
+                           <xmpDM:name>Marker 07</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:dcfbf687-da98-4842-bd69-e52a977650f9</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:dcfbf687-da98-4842-bd69-e52a977650f9</xmpDM:guid>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpDM:markers>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <xmpDM:trackName>CD Track Markers</xmpDM:trackName>

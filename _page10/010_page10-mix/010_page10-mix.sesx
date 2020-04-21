@@ -81,7 +81,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="07e69ba1-acb7-4dd5-9ebc-d7acd9c9cbb4" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="72cc79ca-2747-4fff-9937-95eaafc71188" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -102,7 +102,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="b59eedda-0927-4701-ac8a-15b315a4a8cc" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="d4a94f80-3d0e-4044-8c80-f8f40bca7003" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -123,7 +123,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="dd5aa15e-4949-4bb8-9892-2dc2fc6f8744" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="4c6d15fa-a702-4f43-bd50-b19a25d87c15" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -567,9 +567,9 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 13.0 (Macintosh)</xmp:CreatorTool>
          <xmp:CreateDate>2020-04-18T13:33:20-04:00</xmp:CreateDate>
-         <xmp:MetadataDate>2020-04-18T16:38:37-04:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2020-04-18T16:38:37-04:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:1c7abde0-f8d9-43c7-ae67-fc3859e049ab</xmpMM:InstanceID>
+         <xmp:MetadataDate>2020-04-21T09:56:24-04:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-04-21T09:56:24-04:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:f9969aca-d0be-49a3-83af-8887c3836571</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:6236d789-e713-47ee-bd3f-f0f95434b859</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:a4962621-9ca7-4167-8fdf-f8b175136049</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -620,6 +620,20 @@
                   <stEvt:action>saved</stEvt:action>
                   <stEvt:instanceID>xmp.iid:1c7abde0-f8d9-43c7-ae67-fc3859e049ab</stEvt:instanceID>
                   <stEvt:when>2020-04-18T16:38:37-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:96ba26cd-3a44-4530-8b05-0793a986823b</stEvt:instanceID>
+                  <stEvt:when>2020-04-21T09:56:24-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:f9969aca-d0be-49a3-83af-8887c3836571</stEvt:instanceID>
+                  <stEvt:when>2020-04-21T09:56:24-04:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>

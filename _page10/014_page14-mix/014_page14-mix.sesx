@@ -81,7 +81,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="3348675e-9ff7-4b27-bf75-52162614ff69" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="c9228130-18ad-482f-8796-76ea4b1cb982" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -102,7 +102,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="40da46b7-5618-4034-a571-a0d5749f320c" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="6724e70b-b649-4cac-9965-369e3faffe67" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -545,9 +545,9 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 13.0 (Macintosh)</xmp:CreatorTool>
          <xmp:CreateDate>2020-04-18T14:02:19-04:00</xmp:CreateDate>
-         <xmp:MetadataDate>2020-04-20T19:08:33-04:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2020-04-20T19:08:33-04:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:12ddbe35-474b-4110-af94-3e867e33d1a2</xmpMM:InstanceID>
+         <xmp:MetadataDate>2020-04-21T09:56:24-04:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-04-21T09:56:24-04:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:db601e69-e36f-48b1-a9ce-1cfc1d6cb064</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:62398b26-9531-4c53-a67c-15e524c98504</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:62398b26-9531-4c53-a67c-15e524c98504</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -598,6 +598,20 @@
                   <stEvt:action>saved</stEvt:action>
                   <stEvt:instanceID>xmp.iid:12ddbe35-474b-4110-af94-3e867e33d1a2</stEvt:instanceID>
                   <stEvt:when>2020-04-20T19:08:33-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:46466375-8663-415f-ab97-b8f4792f6106</stEvt:instanceID>
+                  <stEvt:when>2020-04-21T09:56:24-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:db601e69-e36f-48b1-a9ce-1cfc1d6cb064</stEvt:instanceID>
+                  <stEvt:when>2020-04-21T09:56:24-04:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 13.0 (Macintosh)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
@@ -725,21 +739,21 @@
   </session>
 
   <files>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/014_page14-mix/Imported Files/014_page14-2-KID.ogg" id="0" mediaHandler="AmioLSF" relativePath="Imported Files/014_page14-2-KID.ogg"/>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/014_page14-mix/Imported Files/014_page14-2.mp4" id="1" mediaHandler="ImporterHost" relativePath="Imported Files/014_page14-2.mp4"/>
-    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/014_page14-mix/Imported Files/014_page14-1-KID.mp3" id="2" importerPrivateSettings="BitsPerSecond:0:192000;CompressionQuality:0:4;CompressionType:0:0;" mediaHandler="AmioMP3" relativePath="Imported Files/014_page14-1-KID.mp3"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/014_page14-mix/Imported Files/014_page14-2-KID.ogg" id="0" mediaHandler="AmioLSF" relativePath="../014_page14-mix/Imported Files/014_page14-2-KID.ogg"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/014_page14-mix/Imported Files/014_page14-2.mp4" id="1" mediaHandler="ImporterHost" relativePath="../014_page14-mix/Imported Files/014_page14-2.mp4"/>
+    <file absolutePath="/Users/anferneeg/Documents/_Work in Progress - Google Drive/anfernee grant 2018/_anferneegrant_2018/Case study/The Big Bed/_audio/_audio raw/2020-04-12/The-big-bed/_page10/014_page14-mix/Imported Files/014_page14-1-KID.mp3" id="2" importerPrivateSettings="BitsPerSecond:0:192000;CompressionQuality:0:4;CompressionType:0:0;" mediaHandler="AmioMP3" relativePath="../014_page14-mix/Imported Files/014_page14-1-KID.mp3"/>
   </files>
 
-  <audioDevice inputID="AppleHDAEngineInput:1F,3,0,1,0:1" outputID="20-19-06-26-27-a9:output">
+  <audioDevice inputID="AppleHDAEngineInput:1F,3,0,1,0:1" outputID="AppleHDAEngineOutput:1F,3,0,1,1:0">
     <inputPort id="1" name="Default Stereo Input"/>
     <inputPort id="2" name="[01M] Built-in Microphone: Internal Microphone 1"/>
     <inputPort id="3" name="[02M] Built-in Microphone: Internal Microphone 2"/>
     <inputPort id="4" name="[01S] Built-in Microphone: Internal Microphone 1"/>
     <outputPort id="1" name="Default Output"/>
-    <outputPort id="2" name="[01M] Mpow D7: Out 1"/>
-    <outputPort id="3" name="[02M] Mpow D7: Out 2"/>
+    <outputPort id="2" name="[01M] Built-in Output: Internal Speakers 1"/>
+    <outputPort id="3" name="[02M] Built-in Output: Internal Speakers 2"/>
     <outputPort id="4" name="Default Stereo Output"/>
-    <outputPort id="5" name="[01S] Mpow D7: Out 1"/>
+    <outputPort id="5" name="[01S] Built-in Output: Internal Speakers 1"/>
     <outputPort id="6" name="Default Surround Output"/>
   </audioDevice>
 
